@@ -3,11 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Mateusz/Desktop/Projekty-blog/przerwania%20zewnetrzne/UART.c</file>
-            <file>file:/C:/Users/Mateusz/Desktop/Projekty-blog/przerwania%20zewnetrzne/PinConfig.h</file>
-            <file>file:/C:/Users/Mateusz/Desktop/Projekty-blog/przerwania%20zewnetrzne/main.c</file>
-            <file>file:/C:/Users/Mateusz/Desktop/Projekty-blog/przerwania%20zewnetrzne/UART.h</file>
-            <file>file:/C:/Users/Mateusz/Desktop/Projekty-blog/przerwania%20zewnetrzne/interrupts.h</file>
+            <file>file:/C:/Users/Mateusz/Desktop/Projekty-blog/Enkoder-inkrementalny/main.c</file>
+            <file>file:/C:/Users/Mateusz/Desktop/Projekty-blog/Enkoder-inkrementalny/UART.c</file>
+            <file>file:/C:/Users/Mateusz/Desktop/Projekty-blog/Enkoder-inkrementalny/PinConfig.h</file>
+            <file>file:/C:/Users/Mateusz/Desktop/Projekty-blog/Enkoder-inkrementalny/interrupts.h</file>
+            <file>file:/C:/Users/Mateusz/Desktop/Projekty-blog/Enkoder-inkrementalny/UART.h</file>
         </group>
     </open-files>
 </project-private>

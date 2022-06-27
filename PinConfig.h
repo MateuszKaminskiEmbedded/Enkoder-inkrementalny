@@ -1,3 +1,5 @@
+#include <xc.h>
+
 #ifndef __PINCONFIG_H
 #define __PINCONFIG_H
 

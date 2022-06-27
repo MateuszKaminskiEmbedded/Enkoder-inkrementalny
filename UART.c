@@ -1,8 +1,4 @@
-#include <xc.h>
 #include "UART.h"
-#include <stdio.h>
-#include <stdlib.h>
-#include <stdbool.h>
 
 #ifndef SYS_FREQ
 #define SYS_FREQ 120000000  // 120 MHz

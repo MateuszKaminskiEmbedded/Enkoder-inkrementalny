@@ -8,14 +8,10 @@
 #include "PinConfig.h"
 
 void main(){
-    // Ustaw u?ywane piny
-    PinConfig();
-    // Ustaw parametry konfiguracyje mikrokontrolera
-	Set_MaxSpeed_Mode();
-    // Inicjalizacja przerwania zewnetrznego external_0
-    Interrupt_External0Vector();
-    // Inicjalizacja UART 5
-	UART_Init();
+    PinConfig();                    // Ustaw uzywane piny I/O
+	Set_MaxSpeed_Mode();            // Ustaw parametry konfiguracyje mikrokontrolera
+    Interrupt_Init();               // Inicjalizacja przerwania zewnetrznego external_0
+	UART_Init();                    // Inicjalizacja UART 5
     
 	while (1){
         
